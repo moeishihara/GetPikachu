@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Ash.png</file>
+        <file>Beedrill.png</file>
+        <file>Muk.png</file>
+        <file>Pikachu.png</file>
+        <file>Pokeball.PNG</file>
+        <file>Snorlax.gif</file>
+        <file>wild_pikachu.png</file>
+        <file>your_pikachu.png</file>
+        <file>bronze_tile_walkway.png</file>
+        <file>country-field.png</file>
+        <file>Ca1P-6TVAAE6x19.jpg</file>
+        <file>sad_pika.png</file>
+        <file>title.png</file>
+        <file>Button.png</file>
+        <file>Ash_damaged.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sound/101-opening.mp3</file>
+        <file>sound/107-battle-vs-wild-pokemon-.mp3</file>
+        <file>sound/108-victory-vs-wild-pokemon-.mp3</file>
+        <file>sound/beep18.mp3</file>
+        <file>sound/fail-trombone-02.mp3</file>
+        <file>sound/pika.wav</file>
+        <file>sound/pikachu.wav</file>
+        <file>sound/Strong_Punch-Mike_Koenig-574430706.mp3</file>
+        <file>sound/pikachuuu.wav</file>
+        <file>sound/pikapi.wav</file>
+        <file>sound/Mario_Jumping-Mike_Koenig-989896458.mp3</file>
+    </qresource>
+</RCC>
